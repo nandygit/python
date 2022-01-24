@@ -1,0 +1,26 @@
+https://www.kaggle.com/harunshimanto/pandas-with-data-science-ai/
+
+Document of understanding
+Mainly has many menthods of pandas
+
+Steps used in this dataset.
+Importing libraries
+reading dataset
+reading dataframes
+Descriptive statistics
+Data Cleaning:
+    Handling missing data
+Data Visualization
+Slicing out columns
+Filtering Selected Rows
+Groupby and Aggregate
+merge dataframe
+Combine aggreagation, merging, and filters to get useful analytics
+Vectorized String Operations
+Split 'genres' into multiple columns
+Add a new column for comedy genre flag
+Extract year from title e.g. (2007)
+Parsing Timestamps
+
+Average Movie Ratings over Time
+Movie ratings related to the year of launch?
